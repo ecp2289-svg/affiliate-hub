@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://ecp2289-svg.github.io/affiliate-hub/sitemap.xml
